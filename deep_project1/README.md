@@ -1,18 +1,5 @@
 # Deep Learning Project
  
-:information_source: **Dersin Adı:** [DERİN ÖĞRENME](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)  
-:information_source: **Dersin Öğretim Elemanı:** Öğr. Gör. Dr. Fatih BAL  [Github](https://github.com/balfatih)   |    [Web Sayfası](https://balfatih.github.io/)
-   
----
-
-## Grup Bilgileri
-
-| Öğrenci No | Adı Soyadı           | Bölüm          	       | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
-|------------|----------------------|--------------------------|---------------|---------------------------------------------------|
-| 1200505051 | Furkan Bayram	    | Yazılım Mühendisliği     | Veri_Seti_1   | [Github](https://github.com/frknbm)               |
-| 1200505062 | Muhammed Ali Köse    | Yazılım Mühendisliği     | Veri_Seti_1   | [Github](https://github.com/muhammedali52)        |
-| 5200505071 | Jemal Amanova        | Yazılım Mühendisliği     | Veri_Seti_1   | [Github](https://github.com/JemalAmanova)         |
-
 ---
 
 ## Proje Açıklaması
@@ -92,6 +79,4 @@ yukarıdaki kaynaklardan yararlandık genel olarak.
 
 Furkan Bayram ==> furkanbyrm02@gmail.com  (github)==>https://github.com/frknbm  
 
-Muhammed Ali Köse ==> https://github.com/muhammedali52   
 
-Jemal Amanova ==> https://github.com/JemalAmanova 
